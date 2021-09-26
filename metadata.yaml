@@ -15,5 +15,5 @@
 homepage: "https://www.tutoit.io"
 documentation: "https://tutoit.io/contact-us"
 versions:
-  - sha: d044d97a6d2266205b0f47a27cbfdc7c9909ccc3
+  - sha: 830b977d85b49a4f6bef024372591107d8febe31
     changeNotes: Initial Version
