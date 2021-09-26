@@ -1,32 +1,26 @@
-// Copyright 2019 Google LLC
+﻿___TERMS_OF_SERVICE___
 
-// Licensed under the Apache License, Version 2.0 (the "License");
-// you may not use this file except in compliance with the License.
-// You may obtain a copy of the License at
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
 
-//     https://www.apache.org/licenses/LICENSE-2.0
-
-// Unless required by applicable law or agreed to in writing, software
-// distributed under the License is distributed on an "AS IS" BASIS,
-// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-// See the License for the specific language governing permissions and
-// limitations under the License.
 
 ___INFO___
 
 {
-  "displayName": "Example Template",
-  "description": "This is an example template. For more information, visit https://developers.google.com/tag-manager/templates",
-  "categories": ["AFFILIATE_MARKETING", "ADVERTISING"],
-  "securityGroups": [],
-  "id": "cvt_temp_public_id",
   "type": "TAG",
+  "id": "cvt_temp_public_id",
   "version": 1,
+  "securityGroups": [],
+  "displayName": "tuto loader",
+  "categories": ["SESSION_RECORDING", "ANALYTICS"],
   "brand": {
-    "thumbnail": "",
+    "id": "brand_dummy",
     "displayName": "",
-    "id": "brand_dummy"
+    "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQABLAEsAAD/4QCeRXhpZgAATU0AKgAAAAgABQESAAMAAAABAAEAAAEaAAUAAAABAAAASgEbAAUAAAABAAAAUgExAAIAAAARAAAAWodpAAQAAAABAAAAbAAAAAAAAAEsAAAAAQAAASwAAAABQWRvYmUgSW1hZ2VSZWFkeQAAAAOgAQADAAAAAQABAACgAgAEAAAAAQAAAGKgAwAEAAAAAQAAAFMAAAAA/+EJbWh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8APD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNi4wLjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgSW1hZ2VSZWFkeSIvPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw/eHBhY2tldCBlbmQ9InciPz4A/8AAEQgAUwBiAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHw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"
   },
+  "description": "add tuto abilities to website\nfor more information - https://tutoit.io",
   "containerContexts": [
     "WEB"
   ]
@@ -35,15 +29,19 @@ ___INFO___
 
 ___TEMPLATE_PARAMETERS___
 
-[
-  {
-    "help": "Enter an example measurement ID. The value can be any character. This is only an example.",
-    "displayName": "Example Measurement ID",
-    "defaultValue": "foobarbaz1234",
-    "name": "MeasurementID",
-    "type": "TEXT"
-  }
-]
+[]
+
+
+___SANDBOXED_JS_FOR_WEB_TEMPLATE___
+
+// Enter your template code here.
+const log = require('logToConsole');
+log('data =', data);
+const injectScript = require('injectScript');
+const url = 'https://cdn.tutoit.co/tutoLoader.js';
+injectScript(url, data.gtmOnSuccess, data.gtmOnFailure, url);
+// Call data.gtmOnSuccess when the tag is finished.
+data.gtmOnSuccess();
 
 
 ___WEB_PERMISSIONS___
@@ -70,41 +68,39 @@ ___WEB_PERMISSIONS___
   {
     "instance": {
       "key": {
-        "publicId": "get_referrer",
+        "publicId": "inject_script",
         "versionId": "1"
       },
       "param": [
         {
-          "key": "urlParts",
+          "key": "urls",
           "value": {
-            "type": 1,
-            "string": "any"
+            "type": 2,
+            "listItem": [
+              {
+                "type": 1,
+                "string": "https://cdn.tutoit.co/tutoLoader.js"
+              }
+            ]
           }
         }
       ]
+    },
+    "clientAnnotations": {
+      "isEditedByUser": true
     },
     "isRequired": true
   }
 ]
 
 
-___SANDBOXED_JS_FOR_WEB_TEMPLATE___
+___TESTS___
 
-// Enter your template code here.
-const queryPermission = require('queryPermission');
-const getReferrerUrl = require('getReferrerUrl');
-let referrer;
-if (queryPermission('get_referrer', 'query')) {
-  referrer = getReferrerUrl('queryParams');
-}
-
-var log = require('logToConsole');
-log('data =', data);
-
-// Call data.gtmOnSuccess when the tag is finished.
-data.gtmOnSuccess();
+scenarios: []
 
 
 ___NOTES___
 
-Created on 9/2/2019, 1:02:37 PM
+Created on 2021-09-26, 12:08:01 PM
+
+
