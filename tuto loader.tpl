@@ -14,7 +14,6 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "tuto loader",
-  "categories": ["SESSION_RECORDING", "ANALYTICS"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
@@ -101,6 +100,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 2021-09-26, 12:08:01 PM
+Created on 2021-09-26, 2:26:30 PM
 
 
